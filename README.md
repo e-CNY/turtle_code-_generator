@@ -1,4 +1,4 @@
-# 海龟编辑器2 / Turtle Editor2 ai code generator
+# 海龟编辑器2 ai代码生成器 / Turtle Editor2 ai code generator
 [English](#english) | [中文](#chinese)
 
 ---
