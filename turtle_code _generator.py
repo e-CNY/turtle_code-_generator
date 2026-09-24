@@ -6,8 +6,8 @@ import webbrowser
 import json
 import os
 
-URL_HOME = ""     # 视频演示链接
-URL_HELP = ""     # 使用说明链接
+URL_HOME = "https://www.bilibili.com/video/BV1bpaN6yEo1"     # 视频演示链接
+URL_HELP = "https://github.com/e-CNY/turtle_code-_generator/blob/main/README.md"     # 使用说明链接
 
 # ========== 全局链接打开函数 ==========
 def open_home(event):
