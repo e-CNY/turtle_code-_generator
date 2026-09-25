@@ -26,7 +26,7 @@ Used for Turtle Editor2 Connect local models or cloud models through LM Studio, 
 
 ### Usage
 1. Install [Python](https://www.python.org/downloads/) (remember to check tcl/tk and IDLE)
-2. Open [LM Studio](https://lmstudio.ai/download), [Ollama](https://ollama.com/download), etc. and open local API services
+2. Open [LM Studio](https://lmstudio.ai/download) and open local API services
 3. Open [Turtle Editor2](https://turtle.codemao.cn/home), create a new Python work, open library management, search for openai and pyperclip, and install it.
 4. Place the `turtle_code _generator.py` file into the turtle-editor2\resources\app.asar.unpacked\Python-win * root directory, and then double click to open
 5. Run the program: Enter and test the API connection, enter requirements and wait for code generation, copy and paste the generated code into the code bar of Turtle Editor 2, and then switch the building blocks.
