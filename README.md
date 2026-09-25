@@ -10,11 +10,11 @@
 
 
 ### 使用方法
-1.安装[Python](https://www.python.org/downloads/)（记得勾选 tcl/tk and IDLE）
-2.打开[LM Studio](https://lmstudio.ai/download)并开启本地API服务
-3.打开[海龟编辑器2](https://turtle.codemao.cn/home)，新建Python作品，打开库管理，搜索openai和pyperclip并安装。
-4.将`turtle_code _generator.py`文件放到turtle-editor2\resources\app.asar.unpacked\Python-win64根目录，然后双击打开
-5.运行程序：输入和测试API连接，输入需求等待代码生成，生成代码复制粘贴到海龟编辑器2的代码栏再切换积木栏
+1. 安装[Python](https://www.python.org/downloads/)（记得勾选 tcl/tk and IDLE）
+2. 打开[LM Studio](https://lmstudio.ai/download)并开启本地API服务
+3. 打开[海龟编辑器2](https://turtle.codemao.cn/home)，新建Python作品，打开库管理，搜索openai和pyperclip并安装。
+4. 将`turtle_code _generator.py`文件放到turtle-editor2\resources\app.asar.unpacked\Python-win64根目录，然后双击打开
+5. 运行程序：输入和测试API连接，输入需求等待代码生成，生成代码复制粘贴到海龟编辑器2的代码栏再切换积木栏
 
 [视频演示](https://www.bilibili.com/video/BV1y6hx6fEfU)
 
